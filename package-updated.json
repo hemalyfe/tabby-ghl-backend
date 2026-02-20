@@ -1,0 +1,9 @@
+{
+  "name": "tabby-ghl-backend",
+  "version": "2.0.0",
+  "description": "Tabby + Stripe checkout backend with GHL CRM integration",
+  "type": "module",
+  "dependencies": {
+    "stripe": "^14.0.0"
+  }
+}
