@@ -1,9 +1,0 @@
-{
-  "name": "tabby-ghl-integration",
-  "version": "1.0.0",
-  "description": "Tabby payment integration backend for GoHighLevel landing pages",
-  "private": true,
-  "scripts": {
-    "dev": "vercel dev"
-  }
-}
